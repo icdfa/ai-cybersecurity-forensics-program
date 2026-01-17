@@ -1,71 +1,64 @@
-# 12-Month Intensive Program: Advanced AI in Cybersecurity and Digital Forensics
+# Advanced AI in Cybersecurity & Digital Forensics Fellowship - Curriculum v2.0
 
 ## Program Overview
 
-This 12-month intensive program provides a comprehensive and deep dive into the application of Artificial Intelligence in Cybersecurity and Digital Forensics. The curriculum is designed to take students from foundational knowledge to expert-level skills, preparing them for leadership roles in the rapidly evolving field of AI-driven security.
+This 12-month, fully funded fellowship is an intensive, hands-on program designed to produce the next generation of elite AI security and forensics experts. The curriculum is structured into four quarters, each building upon the last to provide a comprehensive and deep understanding of both offensive and defensive AI.
 
-## Program Structure
+## Quarter 1: Foundations of AI, Data, and Cybersecurity
 
-The program is divided into four quarters, each focusing on a specific area of AI in cybersecurity and digital forensics. Each quarter consists of three months of intensive study, including lectures, hands-on labs, and a mini-project.
+**Objective:** Establish a rock-solid foundation in Python, data science, machine learning, and core cybersecurity principles. This quarter addresses the foundational AI gap by introducing ML concepts early and reframing classic security tasks as AI data generation problems.
 
-### Quarter 1: Foundations of AI and Cybersecurity (Months 1-3)
+*   **Module 1: Advanced Python & Cybersecurity Tooling**
+    *   Weeks 1-2: Advanced Python for Security, Git, Docker, Environment Setup
+*   **Module 2: Data Generation for AI-Based Security Systems (Lab 1 - Revised)**
+    *   Weeks 3-4: Network Analysis with Scapy, Packet Labeling, Feature Extraction for ML
+*   **Module 3: Machine Learning Fundamentals for Cybersecurity (New Lab)**
+    *   Weeks 5-6: Supervised vs. Unsupervised Learning, Feature Engineering, Model Evaluation (Precision, Recall, F1), Simple Classifiers.
+*   **Module 4: Threat Intelligence & Data Pipelines (Lab 2)**
+    *   Weeks 7-8: Building Automated Threat Intelligence Feeds, Data Storage with SQLite, API Integration.
+*   **Module 5: AI Ethics and Governance - Part 1 (New)**
+    *   Week 9: Introduction to AI Ethics, Responsible AI Principles, Legal Frameworks (GDPR, etc.).
+*   **Module 6: Static & Dynamic Malware Analysis with AI (Lab 3 - Enhanced)**
+    *   Weeks 10-12: Static Feature Analysis, Introduction to Dynamic Analysis (Sandbox Concepts, Behavioral Features), Building an Intelligent Malware Classifier.
+*   **Q1 Mini-Project:** Develop a complete malware classification system with a focus on feature engineering and model evaluation.
 
-**Objective:** To build a strong foundation in the principles of AI, machine learning, and their applications in cybersecurity.
+## Quarter 2: AI-Powered Digital Forensics & Incident Response
 
-- **Month 1: Introduction to AI, Machine Learning, and Python for Security**
-  - **Week 1-2:** Python Programming for Cybersecurity
-  - **Week 3-4:** Fundamentals of AI and Machine Learning
-- **Month 2: AI in Cyber Threat Intelligence and Predictive Security**
-  - **Week 5-6:** Data Collection and Processing for Threat Intelligence
-  - **Week 7-8:** Machine Learning for Threat Prediction and Forecasting
-- **Month 3: AI for Malware Analysis and Detection**
-  - **Week 9-10:** Static and Dynamic Malware Analysis with AI
-  - **Week 11-12:** Advanced Malware Detection Techniques (Deep Learning)
-  - **Q1 Mini-Project:** Building an Intelligent Malware Detection System
+**Objective:** Apply AI and machine learning techniques to automate and enhance digital forensics investigations and incident response workflows.
 
-### Quarter 2: AI-Powered Digital Forensics and Incident Response (Months 4-6)
+*   **Module 7: Automated Forensic Analysis of Compromised Systems (Lab 4)**
+    *   Weeks 13-16: Filesystem Analysis, Memory Forensics with Volatility, AI-driven artifact discovery.
+*   **Module 8: Automated Attack Timeline Generation (Lab 5)**
+    *   Weeks 17-20: Log Analysis with NLP, Event Correlation, Generating Attack Timelines.
+*   **Module 9: AI-Powered Security Orchestration, Automation, and Response (SOAR) (Lab 6)**
+    *   Weeks 21-24: Developing SOAR Playbooks, Automating Incident Response, Integrating AI decision-making.
+*   **Q2 Mini-Project:** Build a SOAR playbook that uses an AI model to classify an incident and trigger an automated response.
 
-**Objective:** To master the use of AI in automating and enhancing digital forensic investigations and incident response.
+## Quarter 3: Offensive AI & Adversarial Machine Learning
 
-- **Month 4: Foundations of Digital Forensics and AI Integration**
-  - **Week 13-14:** Principles of Digital Forensics and Evidence Handling
-  - **Week 15-16:** AI for Automated Evidence Collection and Triage
-- **Month 5: Advanced Forensic Analysis with AI**
-  - **Week 17-18:** AI for Timeline Reconstruction and Anomaly Detection
-  - **Week 19-20:** Natural Language Processing (NLP) for Forensic Analysis
-- **Month 6: Multimedia Forensics and Incident Response Automation**
-  - **Week 21-22:** Computer Vision in Digital Forensics
-  - **Week 23-24:** AI-Driven Incident Response and SOAR Platforms
-  - **Q2 Mini-Project:** Developing an AI-Powered Forensic Analysis Tool
+**Objective:** Understand and execute sophisticated attacks against AI systems to learn how to build more robust defenses.
 
-### Quarter 3: Offensive AI and Adversarial Machine Learning (Months 7-9)
+*   **Module 10: Adversarial Attack Research & Evasion (Labs 7 & 8)**
+    *   Weeks 25-28: Researching Latest Attacks, Evasion Techniques (FGSM, etc.), Bypassing ML Classifiers.
+*   **Module 11: Data Poisoning & Backdoor Attacks (Lab 9)**
+    *   Weeks 29-32: Poisoning Training Data, Creating Model Backdoors, Defending Against Data-Centric Attacks.
+*   **Module 12: Deepfake Generation & Detection (Lab 10)**
+    *   Weeks 33-36: Understanding GANs, Generating Deepfakes, Building a Deepfake Detection System.
+*   **Q3 Mini-Project:** Execute a full red team exercise against a provided AI system, combining evasion and data poisoning attacks.
 
-**Objective:** To understand and master the techniques of adversarial AI and the use of AI in offensive cyber operations.
+## Quarter 4: Advanced AI Security, Governance & Capstone Project
 
-- **Month 7: Introduction to Adversarial AI**
-  - **Week 25-26:** Understanding the Adversarial AI Threat Landscape
-  - **Week 27-28:** Evasion Attacks and Model Robustness
-- **Month 8: Advanced Adversarial Attacks and Generative AI Threats**
-  - **Week 29-30:** Data Poisoning, Model Inversion, and Inference Attacks
-  - **Week 31-32:** Deepfakes, AI-Generated Malware, and Advanced Phishing
-- **Month 9: AI Red Teaming and Security Validation**
-  - **Week 33-34:** AI Red Teaming Methodologies and Frameworks
-  - **Week 35-36:** Continuous AI Security Testing and Validation
-  - **Q3 Mini-Project:** Conducting a Red Team Assessment of an AI System
+**Objective:** Master advanced AI security concepts, governance frameworks, and apply all learned skills in a comprehensive, real-world capstone project.
 
-### Quarter 4: AI Governance, Capstone Project, and Career Preparation (Months 10-12)
+*   **Module 13: AI Red Teaming & Security Validation (Labs 11 & 12)**
+    *   Weeks 37-40: Structured AI Red Teaming, Vulnerability Assessment, AI Security Validation & Certification.
+*   **Module 14: AI Governance, Risk & Compliance (GRC) - Part 2**
+    *   Weeks 41-42: NIST AI Risk Management Framework, ISO Standards, Auditing AI Systems.
+*   **Module 15: SOC Simulation & Team-Based Incident Response (New Lab)**
+    *   Weeks 43-44: Working in a simulated Security Operations Center, using dashboards, ticketing systems, and collaborative incident response.
+*   **Module 16: Capstone Project**
+    *   Weeks 45-52: Fellows work in teams on a real-world AI security problem, from research and development to final presentation.
 
-**Objective:** To address the governance and ethical aspects of AI in security, complete a comprehensive capstone project, and prepare for a career in the field.
+## Career Development
 
-- **Month 10: AI Governance, Ethics, and Compliance**
-  - **Week 37-38:** AI Risk Management Frameworks (NIST AI RMF, EU AI Act)
-  - **Week 39-40:** Ethical Hacking and Responsible Disclosure for AI Systems
-- **Month 11: Capstone Project - Part 1**
-  - **Week 41-44:** Project Proposal, Design, and Initial Development
-- **Month 12: Capstone Project - Part 2 and Career Development**
-  - **Week 45-48:** Project Implementation, Testing, and Final Presentation
-  - **Week 49-52:** Career Workshops, Resume Building, and Mock Interviews
-
-## Detailed Monthly Breakdown
-
-(A more detailed breakdown of each month's topics, labs, and assessments will be provided in the full program documentation.)
+Integrated throughout the program, with dedicated workshops on resume building, interview skills, personal branding, and networking. The program culminates with a career fair and direct introductions to our industry partners.

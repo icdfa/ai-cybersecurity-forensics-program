@@ -1,0 +1,31 @@
+# Lab Structure v2.0 - 24 Labs for 24 Modules
+
+## Phase 1: Core Skills & Defensive Operations (12 Labs)
+
+*   **Lab 1:** Setting Up a Professional Development Environment (Module 1)
+*   **Lab 2:** Building a Security Automation Toolkit with Python (Module 2)
+*   **Lab 3:** Designing a Secure Enterprise Network with Cisco Packet Tracer (Module 3)
+*   **Lab 4:** Securing a Multi-Cloud Environment with AWS & Azure (Module 4)
+*   **Lab 5:** Building a Predictive Security Model with Azure ML (Module 5)
+*   **Lab 6:** Developing a Deep Learning Model for Threat Detection with AWS SageMaker (Module 6)
+*   **Lab 7:** Creating an AI-Powered Threat Intelligence Feed (Module 7)
+*   **Lab 8:** Building an Intelligent Malware Sandbox & Analysis Platform (Module 8)
+*   **Lab 9:** Developing a Deep Learning-Based NIDS (Module 9)
+*   **Lab 10:** Automating Forensic Artifact Analysis with AI (Module 10)
+*   **Lab 11:** Building an NLP-Powered Log Anomaly Detector (Module 11)
+*   **Lab 12:** Designing an Intelligent SOAR Playbook for Automated Incident Response (Module 12)
+
+## Phase 2: Offensive AI, Advanced Security & Capstone Project (12 Labs)
+
+*   **Lab 13:** Auditing an AI System for Ethical Risks and Bias (Module 13)
+*   **Lab 14:** Implementing Evasion & Poisoning Attacks Against ML Models (Module 14)
+*   **Lab 15:** Conducting a Red Team Assessment of an AI System (Module 15)
+*   **Lab 16:** Building a Deepfake Detection & Forensics Toolkit (Module 16)
+*   **Lab 17:** Creating an AI-Powered Fuzzer for Vulnerability Discovery (Module 17)
+*   **Lab 18:** Building and Operating a Simulated Security Operations Center (SOC) (Module 18)
+*   **Lab 19:** Replicating a State-of-the-Art AI Security Research Paper (Module 19)
+*   **Lab 20:** Mid-Program Research Project Implementation (Module 20)
+*   **Lab 21:** Capstone Project: Phase 1 - Data Collection & Preprocessing (Module 21)
+*   **Lab 22:** Capstone Project: Phase 2 - Model Development & Training (Module 22)
+*   **Lab 23:** Capstone Project: Phase 3 - Evaluation, Reporting & Presentation (Module 23)
+*   **Lab 24:** Building a Professional Career Portfolio & Mock Interview Simulation (Module 24)

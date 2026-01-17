@@ -1,0 +1,125 @@
+{
+  "model_name": "Deepfake Detection System",
+  "validation_date": "2026-01-17T02:04:45.516103",
+  "compliance_standard": "NIST AI Risk Management Framework",
+  "tests": [
+    {
+      "name": "Accuracy Validation",
+      "category": "Performance",
+      "weight": 2.0,
+      "passed": true,
+      "score": 100.0,
+      "details": {
+        "accuracy": 1.0,
+        "threshold": 0.85,
+        "passed": true
+      }
+    },
+    {
+      "name": "Robustness Validation",
+      "category": "Security",
+      "weight": 3.0,
+      "passed": true,
+      "score": 33.33333333333335,
+      "details": {
+        "original_accuracy": 1.0,
+        "perturbed_accuracy": 0.9,
+        "degradation": 0.09999999999999998,
+        "threshold": 0.15,
+        "passed": true
+      }
+    },
+    {
+      "name": "Fairness Validation",
+      "category": "Ethics",
+      "weight": 2.5,
+      "passed": true,
+      "score": 100.0,
+      "details": {
+        "group_a_accuracy": 1.0,
+        "group_b_accuracy": 1.0,
+        "disparity": 0.0,
+        "threshold": 0.1,
+        "passed": true
+      }
+    },
+    {
+      "name": "Transparency Validation",
+      "category": "Governance",
+      "weight": 1.5,
+      "passed": true,
+      "score": 100.0,
+      "details": {
+        "has_feature_importance": true,
+        "has_predict_proba": true,
+        "transparency_score": 100.0,
+        "passed": true
+      }
+    },
+    {
+      "name": "Data Quality Validation",
+      "category": "Data Integrity",
+      "weight": 2.0,
+      "passed": true,
+      "score": 100.0,
+      "details": {
+        "has_nan_values": false,
+        "has_inf_values": false,
+        "class_balance_ratio": 0.9823788546255506,
+        "quality_score": 100.0,
+        "passed": true
+      }
+    },
+    {
+      "name": "Security Validation",
+      "category": "Security",
+      "weight": 3.0,
+      "passed": true,
+      "score": 100.0,
+      "details": {
+        "handles_extreme_inputs": true,
+        "has_confidence_calibration": true,
+        "security_score": 100.0,
+        "passed": true
+      }
+    }
+  ],
+  "summary": {
+    "total_tests": 6,
+    "passed_tests": 6,
+    "failed_tests": 0,
+    "pass_rate": 1.0,
+    "weighted_score": 85.71428571428571,
+    "category_breakdown": {
+      "Performance": {
+        "passed": 1,
+        "total": 1
+      },
+      "Security": {
+        "passed": 2,
+        "total": 2
+      },
+      "Ethics": {
+        "passed": 1,
+        "total": 1
+      },
+      "Governance": {
+        "passed": 1,
+        "total": 1
+      },
+      "Data Integrity": {
+        "passed": 1,
+        "total": 1
+      }
+    }
+  },
+  "certification": {
+    "level": "Gold",
+    "certificate_id": "1748EC8BA7BDEADD",
+    "score": 85.71428571428571,
+    "pass_rate": 1.0,
+    "issued_date": "2026-01-17T02:04:45.516103",
+    "valid_until": "2027-01-17T02:04:45.516103",
+    "compliance_standard": "NIST AI Risk Management Framework"
+  }
+}

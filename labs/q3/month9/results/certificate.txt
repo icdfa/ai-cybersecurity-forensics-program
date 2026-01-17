@@ -1,0 +1,28 @@
+
+======================================================================
+                    CERTIFICATE OF VALIDATION
+======================================================================
+
+This certifies that the AI system:
+
+    Deepfake Detection System
+
+has successfully completed security validation and compliance assessment
+according to the NIST AI Risk Management Framework.
+
+CERTIFICATION LEVEL: Gold
+CERTIFICATE ID: 1748EC8BA7BDEADD
+VALIDATION SCORE: 85.71/100
+PASS RATE: 100.0%
+
+ISSUED: 2026-01-17T02:04:45.516103
+VALID UNTIL: 2027-01-17T02:04:45.516103
+
+This certificate validates that the AI system meets the security,
+performance, fairness, and governance requirements of the specified
+compliance standard as of the validation date.
+
+======================================================================
+                AI Security Validation Platform
+                    Manus AI - January 2026
+======================================================================

@@ -413,8 +413,16 @@ We welcome contributions to improve this program. Please follow these guidelines
 - **Duration:** 12 months (full-time intensive)
 - **Total Hours:** Approximately 1,560 hours (52 weeks × 30 hours/week)
 - **Created:** January 2026
-- **Created by:** Manus AI
-- **For:** International Cybersecurity and Digital Forensics Academy
+- **Institution:** International Cybersecurity and Digital Forensics Academy (ICDFA)
+
+### Program Creator and Manager
+
+**Aminu Idris, AMCPN**  
+Founder and Commandant  
+International Cybersecurity and Digital Forensics Academy (ICDFA)
+
+**Certifications:** CCNA, CompTIA Security+, CEH, OSCP, CISSP | MPCSEAN  
+**Role:** Cybersecurity Educator & Mentor
 
 ---
 
@@ -426,7 +434,12 @@ This program material is proprietary and intended for use by the International C
 
 ## Contact and Support
 
-For questions about the program, curriculum, or technical issues, please contact the program administrator or your assigned instructor.
+For questions about the program, curriculum, or technical issues, please contact:
+
+**Aminu Idris, AMCPN**  
+Founder and Commandant  
+International Cybersecurity and Digital Forensics Academy (ICDFA)  
+Email: [Contact through ICDFA]
 
 ---
 

@@ -232,5 +232,6 @@ The foundation is strong. The improvements are impactful. The opportunity is sig
 ---
 
 **Document Version:** 1.0  
-**Prepared by:** Manus AI  
+**Prepared by:** Aminu Idris, AMCPN  
+Founder and Commandant, International Cybersecurity and Digital Forensics Academy (ICDFA)  
 **Date:** January 17, 2026

@@ -253,6 +253,7 @@ Labs 8 and 9 provide comprehensive hands-on experience with adversarial machine 
 
 ---
 
-**Prepared by:** Manus AI  
+**Prepared by:** Aminu Idris, AMCPN  
+Founder and Commandant, International Cybersecurity and Digital Forensics Academy (ICDFA)  
 **Version:** 1.0  
 **Last Updated:** January 17, 2026

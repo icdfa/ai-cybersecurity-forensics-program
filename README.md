@@ -33,7 +33,9 @@ This 12-month intensive program combines theoretical knowledge with extensive ha
 ICDFA has secured strategic partnerships with the world's leading technology companies to provide students with enterprise-grade resources:
 
 - **Microsoft for Azure (Verified):** Every admitted trainee receives free access to Microsoft Azure cloud services for labs and research
+- **Microsoft Learn for Educators:** Access to official Microsoft curriculum and learning paths for certification preparation
 - **AWS Academy Member:** Official access to Amazon Web Services curriculum and cloud computing resources
+- **Cisco Partner:** Access to Cisco Networking Academy curriculum and preparation for Cisco certifications
 - **GitHub Campus Approved:** Full access to GitHub developer tools, GitHub Copilot, and collaborative development platforms
 
 These partnerships ensure that students train on the same platforms and tools used by top global enterprises, providing unparalleled hands-on experience with industry-standard technologies.

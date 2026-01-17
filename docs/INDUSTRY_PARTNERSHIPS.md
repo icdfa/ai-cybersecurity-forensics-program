@@ -2,11 +2,18 @@
 
 ## Strategic Technology Partnerships
 
-The International Cybersecurity and Digital Forensics Academy (ICDFA) has established strategic partnerships with the world's leading technology companies to provide students with enterprise-grade resources and industry-recognized training platforms.
+The International Cybersecurity and Digital Forensics Academy (ICDFA) has established strategic partnerships with the world's leading technology companies to provide students with enterprise-grade resources and industry-recognized training platforms. Our partners include:
+
+- Microsoft (Azure and Learn for Educators)
+- Amazon Web Services (AWS Academy)
+- Cisco (Cisco Partner)
+- GitHub (GitHub Campus)
 
 ---
 
-## Microsoft for Azure
+## Microsoft
+
+### Microsoft for Azure
 
 **Status:** Verified Institution
 
@@ -25,6 +32,19 @@ The International Cybersecurity and Digital Forensics Academy (ICDFA) has establ
 - Training on enterprise-grade cloud security practices
 
 **Value:** Estimated $500-1,000 per student in cloud credits over 12 months
+
+### Microsoft Learn for Educators
+
+**Status:** Member Institution
+
+**Benefits for Students:**
+- Access to official Microsoft curriculum and learning paths
+- Preparation for Microsoft certifications (e.g., Azure Security Engineer, AI Engineer)
+- Self-paced learning modules and hands-on labs
+
+**Program Integration:**
+- Supplements program curriculum with official Microsoft content
+- Provides additional pathways for specialization and certification
 
 ---
 
@@ -94,12 +114,29 @@ All partnerships are officially verified and can be confirmed through:
 
 ---
 
+## Cisco
+
+**Status:** Cisco Partner
+
+**Benefits for Students:**
+- Access to Cisco Networking Academy curriculum
+- Hands-on labs with Cisco Packet Tracer
+- Training on network security and infrastructure
+- Preparation for Cisco certifications (CCNA, CyberOps Associate)
+
+**Program Integration:**
+- Foundational networking and security concepts supplemented with Cisco curriculum
+- Labs on network scanning and packet analysis utilize Cisco principles
+
+**Value:** Estimated $200-400 per student in curriculum and tool access
+
+---
+
 ## Future Partnerships
 
 ICDFA is actively pursuing additional partnerships with:
 - Google Cloud Platform (GCP) for Education
 - Palo Alto Networks Academy
-- Cisco Networking Academy
 - EC-Council Academic Partner Program
 - SANS Institute Academic Alliance
 

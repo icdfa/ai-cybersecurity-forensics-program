@@ -28,6 +28,16 @@ A comprehensive, industry-leading program designed to equip cybersecurity profes
 
 This 12-month intensive program combines theoretical knowledge with extensive hands-on practical experience, covering both defensive and offensive AI techniques in cybersecurity and digital forensics. The program is designed for cybersecurity professionals, digital forensics investigators, incident responders, and IT professionals transitioning into security roles.
 
+### Industry Partnerships
+
+ICDFA has secured strategic partnerships with the world's leading technology companies to provide students with enterprise-grade resources:
+
+- **Microsoft for Azure (Verified):** Every admitted trainee receives free access to Microsoft Azure cloud services for labs and research
+- **AWS Academy Member:** Official access to Amazon Web Services curriculum and cloud computing resources
+- **GitHub Campus Approved:** Full access to GitHub developer tools, GitHub Copilot, and collaborative development platforms
+
+These partnerships ensure that students train on the same platforms and tools used by top global enterprises, providing unparalleled hands-on experience with industry-standard technologies.
+
 The program addresses a critical market gap by providing comprehensive training in:
 
 - **Defensive AI:** Building secure AI systems and defending against AI-powered threats

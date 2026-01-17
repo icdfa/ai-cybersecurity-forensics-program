@@ -1,60 +1,72 @@
-# Quarter 3, Month 9: AI Red Teaming & Continuous AI Security Validation
+# Quarter 3, Month 9: Deepfake Detection System
+
+## Lab 10: Detecting AI-Generated Media
+
+---
 
 ## Overview
 
-This month focuses on AI red teaming and the development of automated security validation pipelines for AI systems. Students conduct red team exercises and build continuous security testing frameworks.
+This lab focuses on building a machine learning system to detect deepfakes - AI-generated media that appears authentic but is actually fabricated. Students will train and evaluate a classifier using pre-extracted features from media files.
 
-## Lab Assignments
+## Lab Files
 
-### Lab 11: Planning and Executing an AI Red Team Exercise (Weeks 33-34)
-
-Simulate real-world attacks on AI systems to find vulnerabilities and weaknesses.
-
-**Topics Covered:**
-- Red teaming methodologies
-- Attack simulation and planning
-- Vulnerability identification
-- Remediation recommendations
-
-**Deliverables:**
-- Red team plan and methodology
-- Attack simulation results
-- Lab report with findings
-
-**Grading:** 100 points
-
-### Lab 12: Building an Automated AI Security Validation Pipeline (Weeks 35-36)
-
-Develop an automated pipeline to continuously test AI systems against known adversarial attacks.
-
-**Topics Covered:**
-- Security testing frameworks
-- Automated attack integration
-- Continuous monitoring
-- Security validation reporting
-
-**Deliverables:**
-- Python implementation
-- Validation pipeline
-- Security reports
-
-**Grading:** 100 points
-
-This is the Quarter 3 mini-project.
-
-See [lab11_ai_red_teaming.md](lab11_ai_red_teaming.md) and [lab12_ai_security_validation.md](lab12_ai_security_validation.md) for complete details.
+- **Lab Manual:** `lab10_deepfake_detection.md`
+- **Code:** `code/deepfake_detector.py`
+- **Worksheet:** `worksheets/lab10_worksheet.md`
+- **Dataset:** `data/deepfake_dataset.csv` (generated)
 
 ## Learning Outcomes
 
-Upon completion of this month, students will be able to:
+By completing this lab, students will:
+- Understand the deepfake detection challenge
+- Implement a machine learning detection pipeline
+- Evaluate model performance with multiple metrics
+- Analyze feature importance for detection
+- Consider real-world implications
 
-- Plan and execute red team exercises
-- Identify vulnerabilities in AI systems
-- Implement automated security testing
-- Develop continuous security validation pipelines
+## Prerequisites
 
-## Resources
+- Python 3.8+
+- Libraries: scikit-learn, pandas, numpy
+- Completion of Labs 1-9
 
-- NIST Cybersecurity Framework: https://www.nist.gov/cyberframework
-- Red Team Operations: https://www.mitre.org/
-- Security Testing: https://owasp.org/
+## Quick Start
+
+```bash
+# Generate the dataset
+cd ../../..
+python3 scripts/generate_sample_data.py
+
+# Run the detector
+cd labs/q3/month9
+python3 code/deepfake_detector.py
+
+# Run with detailed analysis
+python3 code/deepfake_detector.py --analyze
+```
+
+## Features Analyzed
+
+The system analyzes 10 key features:
+- Facial landmark consistency
+- Blinking pattern frequency
+- Head pose variance
+- Lighting inconsistency score
+- Compression artifact level
+- Temporal coherence error
+- Audio sync offset
+- Face resolution mismatch
+- Color distribution anomaly
+- Edge sharpness inconsistency
+
+## Expected Performance
+
+The model should achieve:
+- Accuracy: >99%
+- Precision: >99%
+- Recall: >99%
+- Very low false positive rate
+
+---
+
+**Month 9 of 12** | **Quarter 3: Offensive AI**

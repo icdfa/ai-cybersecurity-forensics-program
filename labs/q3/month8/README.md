@@ -1,58 +1,60 @@
-# Quarter 3, Month 8: Advanced Adversarial Attacks & Generative AI Threats
+# Quarter 3, Month 8: Adversarial Machine Learning
+
+## Lab 8: Evasion Attacks
+## Lab 9: Data Poisoning Attacks
+
+---
 
 ## Overview
 
-This month covers advanced adversarial attacks including data poisoning and explores threats from generative AI such as deepfakes and AI-generated malware.
+This month focuses on adversarial attacks against machine learning models used in cybersecurity. Students will implement and analyze both evasion attacks (targeting inference) and data poisoning attacks (targeting training).
 
-## Lab Assignments
+## Lab Files
 
-### Lab 9: Executing a Data Poisoning Attack (Weeks 29-30)
+### Lab 8: Evasion Attacks
+- **Lab Manual:** `lab8_evasion_attack.md`
+- **Code:** `code/evasion_attack.py`
+- **Worksheet:** `worksheets/lab8_worksheet.md`
+- **Dataset:** `data/malware_dataset.csv`
 
-Implement a data poisoning attack by injecting mislabeled data into a training set to degrade model performance.
-
-**Topics Covered:**
-- Data poisoning attack techniques
-- Training data corruption
-- Model performance degradation
-- Defense mechanisms
-
-**Deliverables:**
-- Python implementation
-- Performance comparison
-- Lab report with analysis
-
-**Grading:** 100 points
-
-### Lab 10: Building and Detecting Deepfake Videos (Weeks 31-32)
-
-Generate deepfake videos using AI techniques and implement detection mechanisms.
-
-**Topics Covered:**
-- Deepfake generation techniques
-- Deepfake detection methods
-- Forensic analysis of manipulated media
-- Implications for security
-
-**Deliverables:**
-- Deepfake generation code
-- Detection implementation
-- Lab report with analysis
-
-**Grading:** 100 points
-
-See [lab9_data_poisoning_attack.md](lab9_data_poisoning_attack.md) and [lab10_deepfake_detection.md](lab10_deepfake_detection.md) for complete details.
+### Lab 9: Data Poisoning Attacks
+- **Lab Manual:** `lab9_data_poisoning.md`
+- **Code:** `code/data_poisoning_attack.py`
+- **Worksheet:** `worksheets/lab9_worksheet.md`
+- **Dataset:** `data/malware_dataset.csv`
 
 ## Learning Outcomes
 
-Upon completion of this month, students will be able to:
+By completing these labs, students will:
+- Understand adversarial attacks on ML models
+- Implement evasion and poisoning techniques
+- Evaluate attack effectiveness
+- Propose defensive strategies
 
-- Implement data poisoning attacks
-- Generate and detect deepfakes
-- Understand threats from generative AI
-- Develop defenses against advanced attacks
+## Prerequisites
 
-## Resources
+- Python 3.8+
+- Libraries: scikit-learn, pandas, numpy, matplotlib
+- Completion of Labs 1-7
 
-- Data Poisoning: https://arxiv.org/abs/1206.6389
-- Deepfakes: https://github.com/ondyari/FaceForensics
-- Generative AI: https://openai.com/research/
+## Quick Start
+
+```bash
+# Generate sample data
+cd ../../../
+python3 scripts/generate_sample_data.py
+
+# Copy data to lab directory
+cp labs/q1/month3/data/malware_dataset.csv labs/q3/month8/data/
+
+# Run Lab 8
+cd labs/q3/month8
+python3 code/evasion_attack.py --dataset data/malware_dataset.csv --attack-type all
+
+# Run Lab 9
+python3 code/data_poisoning_attack.py --dataset data/malware_dataset.csv --attack-type label_flip
+```
+
+---
+
+**Month 8 of 12** | **Quarter 3: Offensive AI**

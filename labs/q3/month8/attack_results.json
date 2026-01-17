@@ -1,0 +1,98 @@
+{
+  "baseline_accuracy": 0.93,
+  "total_attacks": 10,
+  "successful_attacks": 0,
+  "success_rate": 0.0,
+  "attack_details": [
+    {
+      "original_prediction": 1,
+      "adversarial_prediction": 1,
+      "original_malware_probability": 0.99,
+      "adversarial_malware_probability": 0.99,
+      "perturbation_magnitude": 0.1475639542050221,
+      "attack_success": false,
+      "attack_type": "feature_manipulation"
+    },
+    {
+      "original_prediction": 1,
+      "adversarial_prediction": 1,
+      "original_malware_probability": 0.96,
+      "adversarial_malware_probability": 0.98,
+      "perturbation_magnitude": 0.08202874002926532,
+      "attack_success": false,
+      "attack_type": "feature_manipulation"
+    },
+    {
+      "original_prediction": 1,
+      "adversarial_prediction": 1,
+      "original_malware_probability": 0.98,
+      "adversarial_malware_probability": 0.98,
+      "perturbation_magnitude": 0.17295199466449368,
+      "attack_success": false,
+      "attack_type": "feature_manipulation"
+    },
+    {
+      "original_prediction": 1,
+      "adversarial_prediction": 1,
+      "original_malware_probability": 0.96,
+      "adversarial_malware_probability": 0.96,
+      "perturbation_magnitude": 0.34045364040575216,
+      "attack_success": false,
+      "attack_type": "feature_manipulation"
+    },
+    {
+      "original_prediction": 1,
+      "adversarial_prediction": 1,
+      "original_malware_probability": 0.97,
+      "adversarial_malware_probability": 0.97,
+      "perturbation_magnitude": 0.23330708852341736,
+      "attack_success": false,
+      "attack_type": "feature_manipulation"
+    },
+    {
+      "original_prediction": 1,
+      "adversarial_prediction": 1,
+      "original_malware_probability": 0.96,
+      "adversarial_malware_probability": 0.96,
+      "perturbation_magnitude": 0.3369991020711022,
+      "attack_success": false,
+      "attack_type": "feature_manipulation"
+    },
+    {
+      "original_prediction": 1,
+      "adversarial_prediction": 1,
+      "original_malware_probability": 0.98,
+      "adversarial_malware_probability": 0.98,
+      "perturbation_magnitude": 0.26280053640876305,
+      "attack_success": false,
+      "attack_type": "feature_manipulation"
+    },
+    {
+      "original_prediction": 1,
+      "adversarial_prediction": 1,
+      "original_malware_probability": 0.97,
+      "adversarial_malware_probability": 0.97,
+      "perturbation_magnitude": 0.2038481269486327,
+      "attack_success": false,
+      "attack_type": "feature_manipulation"
+    },
+    {
+      "original_prediction": 1,
+      "adversarial_prediction": 1,
+      "original_malware_probability": 0.95,
+      "adversarial_malware_probability": 0.95,
+      "perturbation_magnitude": 0.15370761692531584,
+      "attack_success": false,
+      "attack_type": "feature_manipulation"
+    },
+    {
+      "original_prediction": 1,
+      "adversarial_prediction": 1,
+      "original_malware_probability": 0.91,
+      "adversarial_malware_probability": 0.9,
+      "perturbation_magnitude": 0.2102736369556364,
+      "attack_success": false,
+      "attack_type": "feature_manipulation"
+    }
+  ]
+}

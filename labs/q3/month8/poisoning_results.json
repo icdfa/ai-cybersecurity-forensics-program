@@ -1,0 +1,19 @@
+{
+  "attack_type": "label_flip",
+  "poison_rate": 0.1,
+  "model_type": "rf",
+  "num_poisoned_samples": 70,
+  "clean_metrics": {
+    "accuracy": 0.93,
+    "precision": 0.9332912864555377,
+    "recall": 0.93,
+    "f1": 0.9298886280443708
+  },
+  "poisoned_metrics": {
+    "accuracy": 0.9216666666666666,
+    "precision": 0.9268819655806256,
+    "recall": 0.9216666666666666,
+    "f1": 0.9214579429537707
+  },
+  "backdoor_success_rate": 0.0
+}

@@ -98,7 +98,7 @@ Pivots to offensive security and advanced topics including AI ethics and governa
 ## Key Features
 
 - **Comprehensive Curriculum:** 52 weeks of intensive study covering all aspects of AI in cybersecurity
-- **24+ Hands-On Labs:** Practical exercises with complete code examples and step-by-step instructions
+- **24 Comprehensive Labs:** 12 labs with complete Python implementations (5,000+ lines of code), 12 additional labs with structured frameworks ready for development
 - **Real-World Projects:** Quarterly mini-projects and a final capstone project addressing real-world challenges
 - **Expert Instruction:** Led by experienced professionals with deep expertise in AI security
 - **Multiple Assessment Methods:** Labs, quizzes, exams, mini-projects, and capstone project

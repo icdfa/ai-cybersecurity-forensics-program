@@ -51,61 +51,47 @@ The program addresses a critical market gap by providing comprehensive training 
 
 ## Program Structure
 
-The program is organized into **4 quarters**, each lasting **3 months** (12 weeks), for a total of **52 weeks** of intensive study.
+The program is organized into **2 phases**, each lasting **6 months** (26 weeks), for a total of **52 weeks** of intensive training.
 
-### Quarter 1: Foundations of AI and Cybersecurity (Months 1-3)
+### Phase 1: Core Skills & Defensive Operations (Months 1-6)
 
-Introduces AI, machine learning, and their applications in cybersecurity. Students learn Python programming for security, fundamentals of machine learning, and how to build AI-powered threat detection systems.
+Builds a comprehensive foundation in cybersecurity, cloud operations, and defensive AI. Fellows master advanced Python, enterprise networking with Cisco, cloud security with AWS and Azure, machine learning, deep learning, threat intelligence, malware analysis, network defense, digital forensics, NLP for security, and SOAR automation.
 
-**Topics:**
-- Python Programming for Cybersecurity
-- Fundamentals of AI and Machine Learning
-- Data Collection and Processing for Threat Intelligence
-- Machine Learning for Threat Prediction and Forecasting
-- Static and Dynamic Malware Analysis with AI
-- Advanced Malware Detection Techniques (Deep Learning)
+**Key Modules:**
+- Fellowship Orientation & Professional Development
+- Advanced Python for Security Automation
+- Enterprise Networking & Security Architecture (Cisco Partner Curriculum)
+- Cloud Security Engineering (AWS Academy & Microsoft Azure Labs)
+- Applied Machine Learning for Security Professionals
+- Deep Learning for Threat Detection
+- AI-Powered Threat Intelligence & Proactive Threat Hunting
+- Intelligent Malware Analysis & Reverse Engineering
+- AI for Advanced Network Defense & Intrusion Detection
+- AI-Enhanced Digital Forensics & Large-Scale Investigation
+- Natural Language Processing for Security
+- AI-Driven Security Orchestration (SOAR) & Automation
 
-**Mini-Project:** Building an Intelligent Malware Detection System
+**Phase Deliverable:** Phase 1 Capstone Project & Comprehensive Practical Exam
 
-### Quarter 2: AI-Powered Digital Forensics and Incident Response (Months 4-6)
+### Phase 2: Offensive AI, Advanced Security & Capstone Project (Months 7-12)
 
-Focuses on using AI to automate and enhance digital forensic investigations and incident response processes.
+Pivots to offensive security and advanced topics including AI ethics and governance, adversarial machine learning, red teaming, generative AI threats, AI-powered vulnerability research, SOC simulation, research seminars, and a three-month intensive capstone project.
 
-**Topics:**
-- Principles of Digital Forensics and Evidence Handling
-- AI for Automated Evidence Collection and Triage
-- AI for Timeline Reconstruction and Anomaly Detection
-- Natural Language Processing (NLP) for Forensic Analysis
-- Computer Vision in Digital Forensics
-- AI-Driven Incident Response and SOAR Platforms
+**Key Modules:**
+- AI Ethics, Governance & Legal Frameworks
+- Adversarial Machine Learning: Theory & Practice
+- Red Teaming & Security Validation of AI Systems
+- Generative AI Threats & Deepfake Forensics
+- AI for Vulnerability Research & Exploit Development
+- SOC Simulation & Team-Based Incident Response
+- Research Seminar I: State-of-the-Art in AI Security
+- Mid-Program Research Project & Presentation
+- Capstone Project I: Proposal & Initial Research
+- Capstone Project II: Development & Implementation
+- Capstone Project III: Final Report & Industry Presentation
+- Career Development & Placement
 
-**Mini-Project:** Developing an AI-Powered Forensic Analysis Tool
-
-### Quarter 3: Offensive AI and Adversarial Machine Learning (Months 7-9)
-
-Explores the techniques of adversarial AI and the use of AI in offensive cyber operations. Students learn how attackers use AI and how to defend against these threats.
-
-**Topics:**
-- Understanding the Adversarial AI Threat Landscape
-- Evasion Attacks and Model Robustness
-- Data Poisoning, Model Inversion, and Inference Attacks
-- Deepfakes, AI-Generated Malware, and Advanced Phishing
-- AI Red Teaming Methodologies and Frameworks
-- Continuous AI Security Testing and Validation
-
-**Mini-Project:** Conducting a Red Team Assessment of an AI System
-
-### Quarter 4: AI Governance, Capstone Project, and Career Preparation (Months 10-12)
-
-Addresses governance and ethical aspects of AI in security, completion of a comprehensive capstone project, and career preparation.
-
-**Topics:**
-- AI Risk Management Frameworks (NIST AI RMF, EU AI Act)
-- Ethical Hacking and Responsible Disclosure for AI Systems
-- Capstone Project Development
-- Career Workshops and Professional Development
-
-**Final Deliverable:** Capstone Project with presentation and defense
+**Final Deliverable:** Capstone Project with Final Report and Industry Presentation
 
 ---
 

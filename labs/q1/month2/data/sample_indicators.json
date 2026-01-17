@@ -1,0 +1,1402 @@
+[
+  {
+    "type": "URL",
+    "value": "http://malicious-site-0.com/payload.exe",
+    "threat_type": "c2",
+    "confidence": 50,
+    "first_seen": "2026-01-03T01:09:09.232108"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-1.com/payload.exe",
+    "threat_type": "c2",
+    "confidence": 51,
+    "first_seen": "2026-01-10T01:09:09.232130"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "7f1aa2e9f7204c1cad021218ac711c9f94b2180d0d37aa06fef6a0965fddfb36",
+    "threat_type": "malware",
+    "confidence": 95,
+    "first_seen": "2026-01-14T01:09:09.232171"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-3.com",
+    "threat_type": "phishing",
+    "confidence": 61,
+    "first_seen": "2026-01-08T01:09:09.232179"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "b776d14d326704e23ba226fdfad67d50798380b75e6078c60d910f456fa42583",
+    "threat_type": "malware",
+    "confidence": 84,
+    "first_seen": "2025-12-18T01:09:09.232216"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-5.com/payload.exe",
+    "threat_type": "malware",
+    "confidence": 68,
+    "first_seen": "2025-12-24T01:09:09.232221"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "957fcda4b6c287c70f9fb540bb2703ac0b92b2ac6af72cee7e942a84cf2ebbb1",
+    "threat_type": "exploit",
+    "confidence": 52,
+    "first_seen": "2025-12-26T01:09:09.232234"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "dc5fe13504b92c61bb9892ffe08bfc8d0cdbdf6daaf5b54a7d11329fcdd567e3",
+    "threat_type": "phishing",
+    "confidence": 77,
+    "first_seen": "2025-12-22T01:09:09.232250"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-8.com",
+    "threat_type": "phishing",
+    "confidence": 81,
+    "first_seen": "2026-01-03T01:09:09.232257"
+  },
+  {
+    "type": "IPv4",
+    "value": "99.158.126.5",
+    "threat_type": "c2",
+    "confidence": 88,
+    "first_seen": "2025-12-18T01:09:09.232265"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-10.com",
+    "threat_type": "exploit",
+    "confidence": 100,
+    "first_seen": "2026-01-11T01:09:09.232269"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-11.com",
+    "threat_type": "malware",
+    "confidence": 52,
+    "first_seen": "2025-12-27T01:09:09.232273"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-12.com/payload.exe",
+    "threat_type": "phishing",
+    "confidence": 50,
+    "first_seen": "2026-01-11T01:09:09.232278"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "f0267eff6ba00b926048509e9973cd649db37a2c73f4a665739af96084cf3a6f",
+    "threat_type": "phishing",
+    "confidence": 53,
+    "first_seen": "2026-01-12T01:09:09.232291"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "e42b946e158a6f9fa15f6374ebfe068b3c182ecce65825de1756623db62e35ec",
+    "threat_type": "c2",
+    "confidence": 100,
+    "first_seen": "2026-01-12T01:09:09.232303"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "d54127799dc8c5373d530b38a4b3a1de909b0d802138d74832c86709fdadfa88",
+    "threat_type": "malware",
+    "confidence": 56,
+    "first_seen": "2025-12-27T01:09:09.232314"
+  },
+  {
+    "type": "IPv4",
+    "value": "181.143.28.188",
+    "threat_type": "c2",
+    "confidence": 87,
+    "first_seen": "2025-12-26T01:09:09.232321"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-17.com",
+    "threat_type": "c2",
+    "confidence": 61,
+    "first_seen": "2026-01-06T01:09:09.232325"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "ab93218f2446141b26af86b54fc2c3762e0abc87d47be2f3c4c708a1b3f6deba",
+    "threat_type": "malware",
+    "confidence": 90,
+    "first_seen": "2026-01-10T01:09:09.232340"
+  },
+  {
+    "type": "IPv4",
+    "value": "215.158.41.156",
+    "threat_type": "phishing",
+    "confidence": 90,
+    "first_seen": "2025-12-22T01:09:09.232346"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "2a33b75fe90aac97a962f7307e54159f84a16a6c178f18657a169163d1a2b8d7",
+    "threat_type": "malware",
+    "confidence": 74,
+    "first_seen": "2026-01-04T01:09:09.232358"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-21.com",
+    "threat_type": "c2",
+    "confidence": 51,
+    "first_seen": "2025-12-30T01:09:09.232363"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-22.com/payload.exe",
+    "threat_type": "malware",
+    "confidence": 70,
+    "first_seen": "2025-12-29T01:09:09.232367"
+  },
+  {
+    "type": "IPv4",
+    "value": "155.120.254.105",
+    "threat_type": "phishing",
+    "confidence": 67,
+    "first_seen": "2025-12-19T01:09:09.232373"
+  },
+  {
+    "type": "IPv4",
+    "value": "50.239.4.181",
+    "threat_type": "c2",
+    "confidence": 86,
+    "first_seen": "2025-12-20T01:09:09.232380"
+  },
+  {
+    "type": "IPv4",
+    "value": "21.139.242.16",
+    "threat_type": "c2",
+    "confidence": 80,
+    "first_seen": "2026-01-08T01:09:09.232386"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "844bd95b5dd6f68e650864c6b074f3de61cb1c4cad3549613a3b0fc27c62cd92",
+    "threat_type": "phishing",
+    "confidence": 88,
+    "first_seen": "2025-12-24T01:09:09.232398"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-27.com",
+    "threat_type": "c2",
+    "confidence": 90,
+    "first_seen": "2026-01-08T01:09:09.232402"
+  },
+  {
+    "type": "IPv4",
+    "value": "114.148.247.69",
+    "threat_type": "c2",
+    "confidence": 81,
+    "first_seen": "2026-01-12T01:09:09.232409"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "d48d04b3c2e738706cfbb36428654ae7c760526491c83b322d0029a63eff4f7c",
+    "threat_type": "c2",
+    "confidence": 71,
+    "first_seen": "2026-01-06T01:09:09.232420"
+  },
+  {
+    "type": "IPv4",
+    "value": "104.154.117.11",
+    "threat_type": "c2",
+    "confidence": 97,
+    "first_seen": "2025-12-19T01:09:09.232426"
+  },
+  {
+    "type": "IPv4",
+    "value": "5.149.92.220",
+    "threat_type": "exploit",
+    "confidence": 63,
+    "first_seen": "2026-01-14T01:09:09.232433"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-32.com/payload.exe",
+    "threat_type": "phishing",
+    "confidence": 71,
+    "first_seen": "2026-01-01T01:09:09.232437"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-33.com",
+    "threat_type": "malware",
+    "confidence": 78,
+    "first_seen": "2026-01-11T01:09:09.232441"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-34.com",
+    "threat_type": "malware",
+    "confidence": 51,
+    "first_seen": "2025-12-30T01:09:09.232445"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "eb6d6964a24b86178c867bb7509b32ad8ae8094e12acf3b7eb0773778b5fd38d",
+    "threat_type": "exploit",
+    "confidence": 83,
+    "first_seen": "2026-01-01T01:09:09.232457"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "77702cb1961cf40043af50df474afc564e33a1879260b80c914b6131a6b2a94d",
+    "threat_type": "malware",
+    "confidence": 63,
+    "first_seen": "2026-01-12T01:09:09.232469"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-37.com/payload.exe",
+    "threat_type": "c2",
+    "confidence": 63,
+    "first_seen": "2025-12-19T01:09:09.232473"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-38.com",
+    "threat_type": "phishing",
+    "confidence": 75,
+    "first_seen": "2026-01-13T01:09:09.232477"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "10fea47b061b8760c12fe32a519c584cc33448145e54ce13c6692cc4e70fc36f",
+    "threat_type": "malware",
+    "confidence": 83,
+    "first_seen": "2025-12-23T01:09:09.232488"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "7734caf94f0bb78faca817b180fdaf67f139ebaeb9d9508aca13d58f0e053b16",
+    "threat_type": "phishing",
+    "confidence": 75,
+    "first_seen": "2026-01-13T01:09:09.232499"
+  },
+  {
+    "type": "IPv4",
+    "value": "21.73.236.176",
+    "threat_type": "phishing",
+    "confidence": 80,
+    "first_seen": "2026-01-11T01:09:09.232506"
+  },
+  {
+    "type": "IPv4",
+    "value": "90.171.222.128",
+    "threat_type": "exploit",
+    "confidence": 89,
+    "first_seen": "2025-12-30T01:09:09.232512"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-43.com/payload.exe",
+    "threat_type": "malware",
+    "confidence": 50,
+    "first_seen": "2025-12-30T01:09:09.232517"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-44.com/payload.exe",
+    "threat_type": "c2",
+    "confidence": 83,
+    "first_seen": "2026-01-07T01:09:09.232533"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "c9241794dc5750be2a6a1ba8b0f498442c68bd4a0e0b73ac8f79061b6f51e5a1",
+    "threat_type": "phishing",
+    "confidence": 90,
+    "first_seen": "2026-01-05T01:09:09.232544"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "4b5c025bd9abe3a035115d67c915617f35721ca146dee7bd3b685f1d01b0e793",
+    "threat_type": "phishing",
+    "confidence": 78,
+    "first_seen": "2025-12-27T01:09:09.232555"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-47.com",
+    "threat_type": "c2",
+    "confidence": 94,
+    "first_seen": "2026-01-16T01:09:09.232559"
+  },
+  {
+    "type": "IPv4",
+    "value": "111.12.178.250",
+    "threat_type": "exploit",
+    "confidence": 69,
+    "first_seen": "2026-01-08T01:09:09.232565"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-49.com",
+    "threat_type": "exploit",
+    "confidence": 66,
+    "first_seen": "2026-01-10T01:09:09.232569"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-50.com/payload.exe",
+    "threat_type": "c2",
+    "confidence": 66,
+    "first_seen": "2025-12-24T01:09:09.232573"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "6c032a806280423879c1315a4d7704736b0f478f99cbbfb9012e869f638df004",
+    "threat_type": "malware",
+    "confidence": 81,
+    "first_seen": "2025-12-31T01:09:09.232584"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "26efde7d8e72bbc8eddc27a74e238b834e06763d51cbb635e30816b8c94057ac",
+    "threat_type": "exploit",
+    "confidence": 59,
+    "first_seen": "2026-01-15T01:09:09.232595"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "22e18d8cffbb9a2bbecaa61966a77a8be19d61761f02058f001713b80e6a4b72",
+    "threat_type": "phishing",
+    "confidence": 56,
+    "first_seen": "2026-01-01T01:09:09.232606"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-54.com/payload.exe",
+    "threat_type": "exploit",
+    "confidence": 88,
+    "first_seen": "2026-01-03T01:09:09.232610"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-55.com",
+    "threat_type": "phishing",
+    "confidence": 72,
+    "first_seen": "2026-01-16T01:09:09.232614"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-56.com",
+    "threat_type": "phishing",
+    "confidence": 62,
+    "first_seen": "2026-01-06T01:09:09.232618"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "5dfcacb8f17906ac101dfa9262d8f865dcc8382333ec4b1728fb6a1fe9c5a289",
+    "threat_type": "phishing",
+    "confidence": 53,
+    "first_seen": "2026-01-01T01:09:09.232630"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-58.com/payload.exe",
+    "threat_type": "malware",
+    "confidence": 62,
+    "first_seen": "2026-01-07T01:09:09.232634"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-59.com",
+    "threat_type": "malware",
+    "confidence": 51,
+    "first_seen": "2026-01-12T01:09:09.232638"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-60.com/payload.exe",
+    "threat_type": "phishing",
+    "confidence": 51,
+    "first_seen": "2026-01-09T01:09:09.232642"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-61.com/payload.exe",
+    "threat_type": "malware",
+    "confidence": 61,
+    "first_seen": "2026-01-02T01:09:09.232646"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-62.com",
+    "threat_type": "malware",
+    "confidence": 97,
+    "first_seen": "2025-12-26T01:09:09.232650"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-63.com/payload.exe",
+    "threat_type": "exploit",
+    "confidence": 55,
+    "first_seen": "2026-01-05T01:09:09.232654"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "958e269ec48eb838314639e2d3eba3c33f46c70ca1eba97939781c9a9b6a2239",
+    "threat_type": "phishing",
+    "confidence": 53,
+    "first_seen": "2026-01-12T01:09:09.232664"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "0b6afdf28596022c1408f310c56845a11fefcf35fcec430383c48e876fcf0d9c",
+    "threat_type": "phishing",
+    "confidence": 83,
+    "first_seen": "2025-12-24T01:09:09.232675"
+  },
+  {
+    "type": "IPv4",
+    "value": "30.183.102.73",
+    "threat_type": "malware",
+    "confidence": 87,
+    "first_seen": "2025-12-19T01:09:09.232681"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "730380542172bf93522a6f1ad0fbb7309df61bc2bad017440befe9b1c2969af8",
+    "threat_type": "malware",
+    "confidence": 88,
+    "first_seen": "2025-12-20T01:09:09.232692"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-68.com/payload.exe",
+    "threat_type": "phishing",
+    "confidence": 76,
+    "first_seen": "2025-12-25T01:09:09.232696"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "bb467e4c394904446a4bd452bf16b8afa8d015f882f5c762493d4ce51405a49f",
+    "threat_type": "exploit",
+    "confidence": 90,
+    "first_seen": "2025-12-20T01:09:09.232707"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-70.com",
+    "threat_type": "phishing",
+    "confidence": 80,
+    "first_seen": "2026-01-01T01:09:09.232711"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-71.com",
+    "threat_type": "malware",
+    "confidence": 79,
+    "first_seen": "2026-01-16T01:09:09.232715"
+  },
+  {
+    "type": "IPv4",
+    "value": "149.95.153.180",
+    "threat_type": "c2",
+    "confidence": 55,
+    "first_seen": "2026-01-14T01:09:09.232721"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-73.com",
+    "threat_type": "exploit",
+    "confidence": 59,
+    "first_seen": "2025-12-22T01:09:09.232725"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "74619060ffe008ed13936f812101ab8468d334911c2be9615d8d6e0db0f73013",
+    "threat_type": "c2",
+    "confidence": 58,
+    "first_seen": "2026-01-15T01:09:09.232736"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-75.com",
+    "threat_type": "exploit",
+    "confidence": 65,
+    "first_seen": "2025-12-24T01:09:09.232740"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "fa9165edd2bac13c5287f071b4e3e12064724bb305cf2cdd4f8ab9fe38754072",
+    "threat_type": "malware",
+    "confidence": 70,
+    "first_seen": "2026-01-05T01:09:09.232751"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "36d2bb2075103db2f8dd0a821557e727921ecc43bb00d8053905404481e05c55",
+    "threat_type": "exploit",
+    "confidence": 94,
+    "first_seen": "2026-01-09T01:09:09.232763"
+  },
+  {
+    "type": "IPv4",
+    "value": "103.71.119.229",
+    "threat_type": "phishing",
+    "confidence": 78,
+    "first_seen": "2025-12-24T01:09:09.232769"
+  },
+  {
+    "type": "IPv4",
+    "value": "50.255.116.208",
+    "threat_type": "exploit",
+    "confidence": 64,
+    "first_seen": "2025-12-18T01:09:09.232775"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "ca0590b6873c781e566b39427cb44f205fb0da629ba04e66718630673611ca76",
+    "threat_type": "phishing",
+    "confidence": 57,
+    "first_seen": "2025-12-31T01:09:09.232786"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "6b9f47160fbbdad1bfbd15ff433ff78ec48b2c46c71cd918b35395f0fb00ffee",
+    "threat_type": "phishing",
+    "confidence": 93,
+    "first_seen": "2026-01-03T01:09:09.232797"
+  },
+  {
+    "type": "IPv4",
+    "value": "96.190.86.161",
+    "threat_type": "phishing",
+    "confidence": 77,
+    "first_seen": "2026-01-06T01:09:09.232804"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-83.com/payload.exe",
+    "threat_type": "exploit",
+    "confidence": 75,
+    "first_seen": "2025-12-28T01:09:09.232808"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-84.com/payload.exe",
+    "threat_type": "malware",
+    "confidence": 67,
+    "first_seen": "2025-12-29T01:09:09.232812"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "ae1a7f1d71525ccf604bc579747cf3d426b7c167dbdb3a67039e1bd11bb2e8f6",
+    "threat_type": "phishing",
+    "confidence": 58,
+    "first_seen": "2026-01-06T01:09:09.232823"
+  },
+  {
+    "type": "IPv4",
+    "value": "32.106.19.177",
+    "threat_type": "phishing",
+    "confidence": 84,
+    "first_seen": "2026-01-01T01:09:09.232829"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "896ba521ba9de72051258e0e28fe7faaf03a4140e2083f42ecb733b632c511ae",
+    "threat_type": "malware",
+    "confidence": 99,
+    "first_seen": "2026-01-01T01:09:09.232840"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-88.com/payload.exe",
+    "threat_type": "exploit",
+    "confidence": 94,
+    "first_seen": "2026-01-01T01:09:09.232844"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "e4759e4d0859a1a88b089e3931fb8f14be0c6addafc0935f55b5334a202b9de2",
+    "threat_type": "c2",
+    "confidence": 89,
+    "first_seen": "2026-01-01T01:09:09.232863"
+  },
+  {
+    "type": "IPv4",
+    "value": "241.40.195.142",
+    "threat_type": "phishing",
+    "confidence": 70,
+    "first_seen": "2025-12-23T01:09:09.232869"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-91.com",
+    "threat_type": "malware",
+    "confidence": 55,
+    "first_seen": "2025-12-20T01:09:09.232873"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-92.com",
+    "threat_type": "phishing",
+    "confidence": 82,
+    "first_seen": "2025-12-20T01:09:09.232877"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-93.com/payload.exe",
+    "threat_type": "phishing",
+    "confidence": 57,
+    "first_seen": "2025-12-24T01:09:09.232882"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "880cc100abe0502422be2f1d7905718dd08edd8e7d898cd48f41d101c21fd32f",
+    "threat_type": "exploit",
+    "confidence": 96,
+    "first_seen": "2026-01-09T01:09:09.232894"
+  },
+  {
+    "type": "IPv4",
+    "value": "251.34.212.179",
+    "threat_type": "malware",
+    "confidence": 77,
+    "first_seen": "2026-01-10T01:09:09.232900"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "8be3ddde755a53f87cd7c20444fd7d9ca140f63b2f7f2a858c750c7fe58f6a10",
+    "threat_type": "malware",
+    "confidence": 99,
+    "first_seen": "2026-01-03T01:09:09.232910"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "9ea3da69ea0fee5bf12927569017fa78dd1089449490cbf689d2adab75f5bd8a",
+    "threat_type": "exploit",
+    "confidence": 63,
+    "first_seen": "2026-01-06T01:09:09.232921"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-98.com/payload.exe",
+    "threat_type": "malware",
+    "confidence": 53,
+    "first_seen": "2025-12-30T01:09:09.232925"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-99.com/payload.exe",
+    "threat_type": "phishing",
+    "confidence": 75,
+    "first_seen": "2025-12-23T01:09:09.232929"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "5ce470413f2540b4dd83b0be53e4b2e72f86bdef788d514293498157f240711e",
+    "threat_type": "malware",
+    "confidence": 59,
+    "first_seen": "2026-01-01T01:09:09.232940"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-101.com",
+    "threat_type": "exploit",
+    "confidence": 53,
+    "first_seen": "2026-01-04T01:09:09.232944"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-102.com",
+    "threat_type": "exploit",
+    "confidence": 73,
+    "first_seen": "2026-01-13T01:09:09.232948"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-103.com",
+    "threat_type": "phishing",
+    "confidence": 82,
+    "first_seen": "2025-12-20T01:09:09.232952"
+  },
+  {
+    "type": "IPv4",
+    "value": "253.92.102.156",
+    "threat_type": "exploit",
+    "confidence": 59,
+    "first_seen": "2026-01-10T01:09:09.232958"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "cae881bfc47b13c301d4d354a404a8b7e484b7a268fcea152eb51dfdb65c3476",
+    "threat_type": "exploit",
+    "confidence": 55,
+    "first_seen": "2026-01-07T01:09:09.232970"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "690c0064f553747b25f2ee6d3e531fe2d717cc8be3090621a164e1d055d887a5",
+    "threat_type": "exploit",
+    "confidence": 88,
+    "first_seen": "2025-12-20T01:09:09.232981"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-107.com",
+    "threat_type": "phishing",
+    "confidence": 66,
+    "first_seen": "2025-12-29T01:09:09.232985"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-108.com",
+    "threat_type": "phishing",
+    "confidence": 77,
+    "first_seen": "2025-12-18T01:09:09.232989"
+  },
+  {
+    "type": "IPv4",
+    "value": "189.114.16.24",
+    "threat_type": "c2",
+    "confidence": 55,
+    "first_seen": "2025-12-28T01:09:09.232995"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-110.com",
+    "threat_type": "exploit",
+    "confidence": 52,
+    "first_seen": "2025-12-20T01:09:09.233000"
+  },
+  {
+    "type": "IPv4",
+    "value": "5.19.75.11",
+    "threat_type": "exploit",
+    "confidence": 90,
+    "first_seen": "2026-01-07T01:09:09.233006"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-112.com/payload.exe",
+    "threat_type": "malware",
+    "confidence": 92,
+    "first_seen": "2025-12-21T01:09:09.233010"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-113.com/payload.exe",
+    "threat_type": "malware",
+    "confidence": 89,
+    "first_seen": "2026-01-04T01:09:09.233014"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-114.com/payload.exe",
+    "threat_type": "phishing",
+    "confidence": 99,
+    "first_seen": "2026-01-07T01:09:09.233018"
+  },
+  {
+    "type": "IPv4",
+    "value": "25.55.69.214",
+    "threat_type": "malware",
+    "confidence": 53,
+    "first_seen": "2026-01-09T01:09:09.233024"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-116.com",
+    "threat_type": "malware",
+    "confidence": 86,
+    "first_seen": "2025-12-20T01:09:09.233028"
+  },
+  {
+    "type": "IPv4",
+    "value": "228.124.75.254",
+    "threat_type": "exploit",
+    "confidence": 66,
+    "first_seen": "2025-12-29T01:09:09.233034"
+  },
+  {
+    "type": "IPv4",
+    "value": "151.202.123.231",
+    "threat_type": "c2",
+    "confidence": 96,
+    "first_seen": "2025-12-26T01:09:09.233040"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-119.com",
+    "threat_type": "exploit",
+    "confidence": 50,
+    "first_seen": "2025-12-26T01:09:09.233044"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "4dc9845dd8e5b410870f76ad4a6dc27b4baf03b0bf658429b83985b91dbafef2",
+    "threat_type": "exploit",
+    "confidence": 50,
+    "first_seen": "2025-12-29T01:09:09.233055"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-121.com/payload.exe",
+    "threat_type": "c2",
+    "confidence": 82,
+    "first_seen": "2025-12-22T01:09:09.233060"
+  },
+  {
+    "type": "IPv4",
+    "value": "216.200.168.211",
+    "threat_type": "malware",
+    "confidence": 68,
+    "first_seen": "2026-01-15T01:09:09.233066"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "d6a7ef7ddf023ab8ea8a986dffcc44ccaaee261393dba603ac4b9ab46cb6d8c8",
+    "threat_type": "phishing",
+    "confidence": 85,
+    "first_seen": "2026-01-11T01:09:09.233077"
+  },
+  {
+    "type": "IPv4",
+    "value": "181.14.139.119",
+    "threat_type": "c2",
+    "confidence": 60,
+    "first_seen": "2026-01-15T01:09:09.233083"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "bc8beac491385c7f64651434a2cac0fffc8c2a1eb6d4802f538965f1a95c7106",
+    "threat_type": "c2",
+    "confidence": 71,
+    "first_seen": "2025-12-30T01:09:09.233095"
+  },
+  {
+    "type": "IPv4",
+    "value": "74.27.164.157",
+    "threat_type": "exploit",
+    "confidence": 86,
+    "first_seen": "2025-12-23T01:09:09.233101"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-127.com/payload.exe",
+    "threat_type": "phishing",
+    "confidence": 89,
+    "first_seen": "2026-01-10T01:09:09.233105"
+  },
+  {
+    "type": "IPv4",
+    "value": "38.229.98.28",
+    "threat_type": "phishing",
+    "confidence": 86,
+    "first_seen": "2026-01-09T01:09:09.233111"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-129.com/payload.exe",
+    "threat_type": "malware",
+    "confidence": 84,
+    "first_seen": "2025-12-26T01:09:09.233115"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "8f532e59060279607cfd199bfdd71b97532ceeb053350009469d92c33b44a8ec",
+    "threat_type": "exploit",
+    "confidence": 77,
+    "first_seen": "2025-12-21T01:09:09.233126"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "d0a3004b59b13cb66ed783e6a10c54a7dbb33460ae27e9443313e95cc45cd0f0",
+    "threat_type": "c2",
+    "confidence": 52,
+    "first_seen": "2026-01-03T01:09:09.233137"
+  },
+  {
+    "type": "IPv4",
+    "value": "48.47.160.19",
+    "threat_type": "exploit",
+    "confidence": 72,
+    "first_seen": "2025-12-29T01:09:09.233143"
+  },
+  {
+    "type": "IPv4",
+    "value": "111.30.200.88",
+    "threat_type": "exploit",
+    "confidence": 62,
+    "first_seen": "2025-12-24T01:09:09.233149"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-134.com",
+    "threat_type": "c2",
+    "confidence": 77,
+    "first_seen": "2025-12-21T01:09:09.233153"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-135.com",
+    "threat_type": "phishing",
+    "confidence": 81,
+    "first_seen": "2025-12-29T01:09:09.233157"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-136.com",
+    "threat_type": "c2",
+    "confidence": 71,
+    "first_seen": "2026-01-11T01:09:09.233161"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "d8ff1db20f4b28af24505ca90009392c35b25c0687cbbf18139c378ee536f7d2",
+    "threat_type": "phishing",
+    "confidence": 68,
+    "first_seen": "2026-01-15T01:09:09.233172"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-138.com/payload.exe",
+    "threat_type": "c2",
+    "confidence": 89,
+    "first_seen": "2026-01-04T01:09:09.233176"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "39d1d1eb4ec0c3606844fbda89862bb67716b99c63e12014e3e2e110a294c430",
+    "threat_type": "malware",
+    "confidence": 97,
+    "first_seen": "2026-01-04T01:09:09.233188"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "45c247912a065f110e8eb2a4c7d220321e3822487cdc916a714c12f054b126fd",
+    "threat_type": "phishing",
+    "confidence": 82,
+    "first_seen": "2026-01-12T01:09:09.233199"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-141.com",
+    "threat_type": "exploit",
+    "confidence": 96,
+    "first_seen": "2026-01-11T01:09:09.233203"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "96b80a94940df41e689bc5da5a6589fd7960910c1330e9806cf9b9f4efac6c8e",
+    "threat_type": "c2",
+    "confidence": 94,
+    "first_seen": "2026-01-06T01:09:09.233214"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "a6c974c3bead02b545e2c8afae0114f32bcb2d65eb13982cf6688cc821be46c3",
+    "threat_type": "malware",
+    "confidence": 53,
+    "first_seen": "2026-01-11T01:09:09.233225"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "37edb6052b2dd7cf018f96f5f0244ef403a6aaa5e9947ea18917c2b37e2d05cc",
+    "threat_type": "exploit",
+    "confidence": 54,
+    "first_seen": "2025-12-31T01:09:09.233236"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-145.com",
+    "threat_type": "malware",
+    "confidence": 85,
+    "first_seen": "2026-01-09T01:09:09.233241"
+  },
+  {
+    "type": "IPv4",
+    "value": "238.50.130.24",
+    "threat_type": "phishing",
+    "confidence": 56,
+    "first_seen": "2025-12-30T01:09:09.233247"
+  },
+  {
+    "type": "IPv4",
+    "value": "91.10.222.57",
+    "threat_type": "malware",
+    "confidence": 50,
+    "first_seen": "2025-12-22T01:09:09.233253"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-148.com",
+    "threat_type": "malware",
+    "confidence": 62,
+    "first_seen": "2025-12-18T01:09:09.233257"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "358bbd7ae268d3cd54154b98f64e62d92b7ac66c25aefb544b8352952272e404",
+    "threat_type": "phishing",
+    "confidence": 52,
+    "first_seen": "2026-01-15T01:09:09.233268"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-150.com/payload.exe",
+    "threat_type": "exploit",
+    "confidence": 76,
+    "first_seen": "2025-12-29T01:09:09.233273"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "2e5b9c429c5957c9f8ce08d8e8e0fb56bf7ba57c3f89381a9abe7f72a6791712",
+    "threat_type": "exploit",
+    "confidence": 90,
+    "first_seen": "2025-12-25T01:09:09.233283"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-152.com/payload.exe",
+    "threat_type": "malware",
+    "confidence": 74,
+    "first_seen": "2025-12-19T01:09:09.233287"
+  },
+  {
+    "type": "IPv4",
+    "value": "243.100.49.103",
+    "threat_type": "exploit",
+    "confidence": 54,
+    "first_seen": "2026-01-10T01:09:09.233293"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "646eb6828bfef68518ac4a981fcad6782fb77aef96f06871f32babab3bda0b7d",
+    "threat_type": "exploit",
+    "confidence": 60,
+    "first_seen": "2026-01-04T01:09:09.233322"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-155.com",
+    "threat_type": "c2",
+    "confidence": 99,
+    "first_seen": "2026-01-02T01:09:09.233326"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-156.com",
+    "threat_type": "malware",
+    "confidence": 63,
+    "first_seen": "2026-01-07T01:09:09.233330"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-157.com",
+    "threat_type": "phishing",
+    "confidence": 65,
+    "first_seen": "2026-01-07T01:09:09.233335"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-158.com",
+    "threat_type": "phishing",
+    "confidence": 71,
+    "first_seen": "2025-12-19T01:09:09.233339"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "fcbde66cf80f4ed25d8a60e3046596852c7e7312d13ac17813a5388fdfc4a023",
+    "threat_type": "phishing",
+    "confidence": 87,
+    "first_seen": "2026-01-01T01:09:09.233350"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-160.com",
+    "threat_type": "malware",
+    "confidence": 89,
+    "first_seen": "2026-01-16T01:09:09.233355"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-161.com/payload.exe",
+    "threat_type": "malware",
+    "confidence": 97,
+    "first_seen": "2026-01-12T01:09:09.233359"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-162.com/payload.exe",
+    "threat_type": "c2",
+    "confidence": 85,
+    "first_seen": "2025-12-23T01:09:09.233363"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-163.com",
+    "threat_type": "exploit",
+    "confidence": 77,
+    "first_seen": "2025-12-18T01:09:09.233367"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "eb05ac68690f1de32fb7e9f312c604e2d3a307d08bc82e45cea5147e5710d5e9",
+    "threat_type": "exploit",
+    "confidence": 94,
+    "first_seen": "2026-01-03T01:09:09.233378"
+  },
+  {
+    "type": "IPv4",
+    "value": "145.241.79.14",
+    "threat_type": "phishing",
+    "confidence": 77,
+    "first_seen": "2026-01-03T01:09:09.233384"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-166.com",
+    "threat_type": "exploit",
+    "confidence": 89,
+    "first_seen": "2026-01-03T01:09:09.233389"
+  },
+  {
+    "type": "IPv4",
+    "value": "243.241.18.41",
+    "threat_type": "c2",
+    "confidence": 98,
+    "first_seen": "2025-12-18T01:09:09.233395"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-168.com",
+    "threat_type": "c2",
+    "confidence": 88,
+    "first_seen": "2026-01-09T01:09:09.233399"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-169.com",
+    "threat_type": "exploit",
+    "confidence": 89,
+    "first_seen": "2025-12-26T01:09:09.233403"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-170.com/payload.exe",
+    "threat_type": "exploit",
+    "confidence": 84,
+    "first_seen": "2025-12-26T01:09:09.233407"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-171.com/payload.exe",
+    "threat_type": "phishing",
+    "confidence": 85,
+    "first_seen": "2026-01-07T01:09:09.233411"
+  },
+  {
+    "type": "IPv4",
+    "value": "150.19.198.42",
+    "threat_type": "c2",
+    "confidence": 92,
+    "first_seen": "2025-12-20T01:09:09.233417"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-173.com",
+    "threat_type": "phishing",
+    "confidence": 88,
+    "first_seen": "2025-12-27T01:09:09.233421"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "9e159a90776b7e31f8eacb771631727b241ac0f31877f645948f18cbd8005e2b",
+    "threat_type": "malware",
+    "confidence": 73,
+    "first_seen": "2025-12-31T01:09:09.233433"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "f0b0ac073e6f476bb9a005e942e5e4c990cb5b96d114b40c4cb184f235e94284",
+    "threat_type": "c2",
+    "confidence": 99,
+    "first_seen": "2026-01-14T01:09:09.233456"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-176.com/payload.exe",
+    "threat_type": "exploit",
+    "confidence": 97,
+    "first_seen": "2026-01-08T01:09:09.233460"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "6d887c0a6dbe552378da8a326f74fa3e416d8e864ded605318c6039849a20bcc",
+    "threat_type": "c2",
+    "confidence": 54,
+    "first_seen": "2026-01-16T01:09:09.233471"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "6105f2410a4f496eabcc2c672d18033d43c18c487f8198f12fcd3bdb911d72a1",
+    "threat_type": "malware",
+    "confidence": 62,
+    "first_seen": "2025-12-25T01:09:09.233482"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-179.com/payload.exe",
+    "threat_type": "exploit",
+    "confidence": 61,
+    "first_seen": "2026-01-14T01:09:09.233486"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-180.com",
+    "threat_type": "c2",
+    "confidence": 64,
+    "first_seen": "2026-01-12T01:09:09.233490"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "44add529b871a5c81c9284e06991685345a913b2df924df7a213e4499e51183d",
+    "threat_type": "malware",
+    "confidence": 72,
+    "first_seen": "2025-12-19T01:09:09.233501"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "6d23398ea4465731aea70d64dd8527846bd2a5de6f6d9e70db67a9244697ab5f",
+    "threat_type": "exploit",
+    "confidence": 86,
+    "first_seen": "2026-01-16T01:09:09.233512"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "0532a5b48b58112907caab4471b146439e74b8a25ce911b13fc72cf22a808211",
+    "threat_type": "malware",
+    "confidence": 69,
+    "first_seen": "2026-01-06T01:09:09.233522"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "407c2fda3ed60e0a8f1a83ee73a15c7275f574be694e9c7f702f236a795b8450",
+    "threat_type": "phishing",
+    "confidence": 98,
+    "first_seen": "2026-01-03T01:09:09.233534"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-185.com",
+    "threat_type": "malware",
+    "confidence": 93,
+    "first_seen": "2025-12-24T01:09:09.233538"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "782c166e6d54de73c2baf1fe56f4fca457d0ebdbe1db09cfd25bc9dd466e8a7b",
+    "threat_type": "phishing",
+    "confidence": 58,
+    "first_seen": "2026-01-14T01:09:09.233549"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "b27de37cb97c2f1a89d5e170706ea2a7b846964dd2f4d05dc5e6b53bf5a1e946",
+    "threat_type": "exploit",
+    "confidence": 75,
+    "first_seen": "2025-12-30T01:09:09.233559"
+  },
+  {
+    "type": "IPv4",
+    "value": "67.94.160.135",
+    "threat_type": "malware",
+    "confidence": 61,
+    "first_seen": "2026-01-07T01:09:09.233565"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-189.com/payload.exe",
+    "threat_type": "exploit",
+    "confidence": 69,
+    "first_seen": "2026-01-12T01:09:09.233569"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-190.com/payload.exe",
+    "threat_type": "exploit",
+    "confidence": 54,
+    "first_seen": "2025-12-26T01:09:09.233573"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "9ed35a81d944a92e061d798c71970d5027dbf2291e19bc35ef5f9bdf2515fa47",
+    "threat_type": "exploit",
+    "confidence": 96,
+    "first_seen": "2026-01-06T01:09:09.233584"
+  },
+  {
+    "type": "IPv4",
+    "value": "83.252.102.228",
+    "threat_type": "exploit",
+    "confidence": 65,
+    "first_seen": "2025-12-23T01:09:09.233590"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-193.com/payload.exe",
+    "threat_type": "exploit",
+    "confidence": 67,
+    "first_seen": "2026-01-15T01:09:09.233595"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-194.com/payload.exe",
+    "threat_type": "c2",
+    "confidence": 91,
+    "first_seen": "2026-01-07T01:09:09.233599"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-195.com/payload.exe",
+    "threat_type": "malware",
+    "confidence": 56,
+    "first_seen": "2025-12-29T01:09:09.233603"
+  },
+  {
+    "type": "IPv4",
+    "value": "23.11.125.19",
+    "threat_type": "exploit",
+    "confidence": 62,
+    "first_seen": "2025-12-31T01:09:09.233608"
+  },
+  {
+    "type": "domain",
+    "value": "malicious-domain-197.com",
+    "threat_type": "phishing",
+    "confidence": 67,
+    "first_seen": "2025-12-28T01:09:09.233612"
+  },
+  {
+    "type": "FileHash-SHA256",
+    "value": "b0deb7dc364cbc0342637a0689c5a3bede7b69b0167471bf463dae47ab0132f3",
+    "threat_type": "malware",
+    "confidence": 97,
+    "first_seen": "2026-01-04T01:09:09.233624"
+  },
+  {
+    "type": "URL",
+    "value": "http://malicious-site-199.com/payload.exe",
+    "threat_type": "exploit",
+    "confidence": 63,
+    "first_seen": "2025-12-23T01:09:09.233628"
+  }
+]
